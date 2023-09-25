@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hrithik99_hrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrithik99_hrx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hrithik-gupta-7314b6203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrithik-gupta-7314b6203" height="30" width="40" /></a>
+<a href="https://twitter.com/hrithik99_hrx" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="hrithik99_hrx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hrithik-gupta-7314b6203" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="hrithik-gupta-7314b6203" height="30" width="40" /></a>
 <a href="https://fb.com/hrithik.hrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hrithik.hrx" height="30" width="40" /></a>
 <a href="https://instagram.com/hrithik_gupta_hrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrithik_gupta_hrx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@hrithikgupta1809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hrithikgupta1809" height="30" width="40" /></a>
